@@ -24,7 +24,7 @@ public class MovesZeroToEnd
 
     public static void main(String args[])
     {
-        int arr[] = {10,8,0,0,12,0};
+        int arr[] = {0,3,2,3,0,0,5};
         moveZero(arr);
         for(int i =0;i<arr.length;i++)
         {
