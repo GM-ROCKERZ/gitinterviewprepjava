@@ -43,12 +43,28 @@ public class Main
 //
 //        mylinkedList.printList();
 
-        LinkedList mylinkedList = new LinkedList(0);
-        mylinkedList.append(2);
+//        LinkedList mylinkedList = new LinkedList(0);
+//        mylinkedList.append(2);
+//
+//        mylinkedList.insert(1,1);
+//
+//        mylinkedList.printList();
+//      LinkedList myLinkedList = new LinkedList(11);
+//      myLinkedList.append(3);
+//      myLinkedList.append(23);
+//      myLinkedList.append(7);
+//
+//      myLinkedList.remove(2);
+//
+//      myLinkedList.printList();
 
-        mylinkedList.insert(1,1);
+        LinkedList myLinkedList = new LinkedList(1);
+        myLinkedList.append(2);
+        myLinkedList.append(3);
+        myLinkedList.append(4);
 
-        mylinkedList.printList();
+        myLinkedList.reverse();
+        myLinkedList.printList();
 
     }
 }
