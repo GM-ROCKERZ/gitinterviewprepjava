@@ -89,10 +89,5 @@ public class Main
         //Find the average rank in all departments
 
 
-
-
-
-
-
     }
 }
