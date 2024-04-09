@@ -17,7 +17,7 @@ public class RemoveDuplicates
 
         for(Integer num:listwithduplicates)
         {
-            System.out.println(num);
+            System.out.print(num+" ");
         }
     }
 }
