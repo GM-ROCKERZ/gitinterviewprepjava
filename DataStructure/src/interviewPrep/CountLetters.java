@@ -25,7 +25,7 @@ public class CountLetters
     }
     public static void main(String args[])
     {
-        String str = "hello";
+        String str = "Javanerds";
         Map<Character,Integer> result = countLetters(str);
         for(Map.Entry<Character,Integer> e: result.entrySet())
         {
