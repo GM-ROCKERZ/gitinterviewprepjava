@@ -15,7 +15,7 @@ public class StringPallindrome
 
     public static void main(String args[])
     {
-        String str = "anna";
+        String str = "abbba";
         if(isPallindrom(str))
             System.out.println("String is pallindrom");
         else
